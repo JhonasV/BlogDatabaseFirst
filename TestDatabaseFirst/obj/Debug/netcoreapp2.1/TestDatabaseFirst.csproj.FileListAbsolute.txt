@@ -1,0 +1,13 @@
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.deps.json
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.runtimeconfig.json
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.runtimeconfig.dev.json
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.dll
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.pdb
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.AssemblyInfo.cs
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.dll
+C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.pdb
