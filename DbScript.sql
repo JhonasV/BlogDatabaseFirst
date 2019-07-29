@@ -4,12 +4,8 @@
     [UserName] VARCHAR(25) NOT NULL, 
     [Password] VARCHAR(100) NOT NULL, 
     [Created_At] DATETIME NULL DEFAULT Current_Timestamp, 
-    [Updated_At] DATETIME NOT NULL
+    [Updated_At] DATETIME NULL
 )
-
-
-alter table dbo.Users alter column Updated_At datetime null
-
 
 CREATE TABLE [dbo].[Posts]
 (
