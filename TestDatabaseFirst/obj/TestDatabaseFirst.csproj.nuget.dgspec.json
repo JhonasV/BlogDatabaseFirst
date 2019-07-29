@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhonas\\source\\repos\\TestDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj": {}
+    "C:\\Users\\NVERAS\\Source\\Repos\\BlogDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhonas\\source\\repos\\TestDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj": {
+    "C:\\Users\\NVERAS\\Source\\Repos\\BlogDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhonas\\source\\repos\\TestDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj",
+        "projectUniqueName": "C:\\Users\\NVERAS\\Source\\Repos\\BlogDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj",
         "projectName": "TestDatabaseFirst",
-        "projectPath": "C:\\Users\\jhonas\\source\\repos\\TestDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj",
-        "packagesPath": "C:\\Users\\jhonas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhonas\\source\\repos\\TestDatabaseFirst\\TestDatabaseFirst\\obj\\",
+        "projectPath": "C:\\Users\\NVERAS\\Source\\Repos\\BlogDatabaseFirst\\TestDatabaseFirst\\TestDatabaseFirst.csproj",
+        "packagesPath": "C:\\Users\\NVERAS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\NVERAS\\Source\\Repos\\BlogDatabaseFirst\\TestDatabaseFirst\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\jhonas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\NVERAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,7 +25,13 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore-tooling/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-aspnetcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-entityframeworkcore/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/aspnet-extensions/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-core/index.json": {},
+          "https://dotnetfeed.blob.core.windows.net/dotnet-windowsdesktop/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {

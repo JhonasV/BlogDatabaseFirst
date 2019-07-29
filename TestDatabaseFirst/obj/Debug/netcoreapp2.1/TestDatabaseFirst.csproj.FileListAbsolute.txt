@@ -11,3 +11,17 @@ C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netco
 C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.RazorTargetAssemblyInfo.cache
 C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.dll
 C:\Users\jhonas\source\repos\TestDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.pdb
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.deps.json
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.runtimeconfig.json
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.runtimeconfig.dev.json
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.dll
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\bin\Debug\netcoreapp2.1\TestDatabaseFirst.pdb
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.csprojAssemblyReference.cache
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.RazorAssemblyInfo.cache
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.RazorAssemblyInfo.cs
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.AssemblyInfoInputs.cache
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.AssemblyInfo.cs
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.dll
+C:\Users\NVERAS\Source\Repos\BlogDatabaseFirst\TestDatabaseFirst\obj\Debug\netcoreapp2.1\TestDatabaseFirst.pdb

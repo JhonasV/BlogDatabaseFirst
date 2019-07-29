@@ -52,7 +52,7 @@ namespace TestDatabaseFirst.Services.Repositories
                     .Include(p => p.PostLikes)
                     .ToListAsync();
             }
-            catch (Exception)
+            catch (Exception e)
             {
 
                 //throw;

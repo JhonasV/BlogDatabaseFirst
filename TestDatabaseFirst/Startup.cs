@@ -36,7 +36,7 @@ namespace TestDatabaseFirst
                });
 
             //DbContext config
-            var connection = Configuration.GetConnectionString("DatabaseFirstString");
+            var connection = Configuration.GetConnectionString("DatabaseFirstStringAux");
 
             services.AddDbContext<PostDatabaseFirstContext>(options => options.UseSqlServer(connection));
             // Dependecies
@@ -49,6 +49,14 @@ namespace TestDatabaseFirst
             services.AddSwaggerGen(c => {
                 c.SwaggerDoc("v1", new Info { Title = "Blog API created with Database first" });
             });
+
+            services.AddCors(o => o.AddPolicy("Dev", builder =>
+            {
+                builder.AllowAnyOrigin()
+                        .AllowAnyMethod()
+                        .AllowAnyHeader();
+            }
+                ));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -62,6 +70,7 @@ namespace TestDatabaseFirst
 
             app.UseMvc();
 
+            app.UseCors("Dev");
             app.UseSwagger();
             app.UseSwaggerUI( c =>
             {
